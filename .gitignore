@@ -28,3 +28,4 @@ public/
 
 # helm chart verification
 chart_verify/
+get_helm.sh
